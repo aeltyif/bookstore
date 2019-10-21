@@ -11,7 +11,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/aeltyif/bookstore.git` this repository
+* `git clone https://github.com/aeltyif/bookstore.git`
 * `cd bookstore`
 * `npm install` or `yarn`
 
