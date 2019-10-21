@@ -6,10 +6,8 @@ This is an Ember JS application for a bookstore, you can view authors/books at w
 
 You will need the following things properly installed on your computer.
 
-* [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
 
 ## Installation
 
@@ -17,7 +15,8 @@ You will need the following things properly installed on your computer.
 * `cd bookstore`
 * `npm install` or `yarn`
 
-## Running / Development
+## Running
 
-* `ember server --proxy http://localhost:3000` assuming your API's are at port 3000
+Assuming your endpoints are at [http://localhost:3000](http://localhost:3000)
+* `ember server --proxy http://localhost:3000`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
